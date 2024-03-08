@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lonewolf/programs/mlflow_tutorial_01/mlruns/0/81ab3cf5228f4ce0843e49289c06b9b3/artifacts
+end_time: 1709899651911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81ab3cf5228f4ce0843e49289c06b9b3
+run_name: delicate-shrimp-660
+run_uuid: 81ab3cf5228f4ce0843e49289c06b9b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709899649784
+status: 3
+tags: []
+user_id: lonewolf

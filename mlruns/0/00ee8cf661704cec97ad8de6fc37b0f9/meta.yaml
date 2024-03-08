@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lonewolf/programs/mlflow_tutorial_01/mlruns/0/00ee8cf661704cec97ad8de6fc37b0f9/artifacts
+end_time: 1709915626018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00ee8cf661704cec97ad8de6fc37b0f9
+run_name: amazing-auk-889
+run_uuid: 00ee8cf661704cec97ad8de6fc37b0f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709915624016
+status: 3
+tags: []
+user_id: lonewolf

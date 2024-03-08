@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lonewolf/programs/mlflow_tutorial_01/mlruns/0/a8e4c0227c47430f9aadaa14eb7a56f4/artifacts
+end_time: 1709899909079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e4c0227c47430f9aadaa14eb7a56f4
+run_name: flawless-gnu-125
+run_uuid: a8e4c0227c47430f9aadaa14eb7a56f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709899906655
+status: 3
+tags: []
+user_id: lonewolf
